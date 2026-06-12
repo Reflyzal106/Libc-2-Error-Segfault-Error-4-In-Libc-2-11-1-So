@@ -10,7 +10,7 @@
 ---
 
 ### 🔍 Quick Technical Overview & Summary:
-Try updating or downgrading the affected package to resolve the issue.
+Check for outdated libraries and update to the latest version.
 
 ---
 
